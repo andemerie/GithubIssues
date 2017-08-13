@@ -1,4 +1,4 @@
 # GithubIssues
 :rocket: React &amp; Redux application
 
-![](demo.png)
+[![](demo.png)](http://andemerie.github.io/GithubIssues)
