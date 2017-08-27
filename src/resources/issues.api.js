@@ -1,6 +1,6 @@
 import { displayAll } from '../utils';
 import TOKEN from '../secret';
-import defaultData from '../data.json';
+import defaultData from '../data';
 
 export function fetchIssues() {
   return fetch(`https://api.github.com/repos/andemerie/01_git_task/issues?access_token=${TOKEN}&state=all`)
