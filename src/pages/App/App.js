@@ -28,8 +28,6 @@ class App extends Component {
   render() {
     const issues = this.props.issues;
 
-    console.log(issues);
-
     return (
       <Router>
         <div>
